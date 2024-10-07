@@ -1,0 +1,6 @@
+sql commands from the h2 db:
+
+SELECT * FROM COURSE 
+insert into course(id,name,author)
+values(1,'Learn AWS','Udemy');
+delete from course where id=1;
